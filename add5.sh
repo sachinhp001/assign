@@ -1,4 +1,5 @@
 #!/bin/bash
+# Pavanh96
 echo "enter the integer value"
 read num
 sum=0
