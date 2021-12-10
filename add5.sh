@@ -1,4 +1,5 @@
 #!/bin/bash
+#Naveen added this tp the line again
 Sachin line
 echo "enter the integer value"
 read num
