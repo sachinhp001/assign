@@ -1,5 +1,5 @@
 #!/bin/bash
-#Naveen
+#Naveen added this tp the line
 echo "enter the integer value"
 read num
 sum=0
