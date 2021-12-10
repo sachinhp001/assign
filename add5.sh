@@ -1,5 +1,8 @@
 #!/bin/bash
 # Pavanh96
+#manoj
+#Naveen added this tp the line again
+Sachin line
 echo "enter the integer value"
 read num
 sum=0
